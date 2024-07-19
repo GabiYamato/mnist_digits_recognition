@@ -8,9 +8,9 @@ Welcome to my Handwritten Digit Recognition project! This is a cool little proje
 
 ## 📦 What’s Included
 
-1. **`train_model.py`**: This script trains a Convolutional Neural Network (CNN) on the MNIST dataset. It saves the trained model as `digits.h5`.
+1. **`TRAIN.py`**: This script trains a Convolutional Neural Network (CNN) on the MNIST dataset. It saves the trained model as `digits.h5`.
 
-2. **`main.py`**: This script uses the trained model to recognize digits from your webcam in real-time. It shows the predicted digit on your webcam feed.
+2. **`MAIN.py`**: This script uses the trained model to recognize digits from your webcam in real-time. It shows the predicted digit on your webcam feed.
 
 ## 🚀 How to Use
 
@@ -19,7 +19,7 @@ Welcome to my Handwritten Digit Recognition project! This is a cool little proje
 First, you need to train the model. Run this script:
 
 ```bash
-python train_model.py
+python TRAIN.py
 ```
 
 This will train the model and save it as `digits.h5`.
@@ -29,7 +29,7 @@ This will train the model and save it as `digits.h5`.
 After training, you can use the webcam to recognize digits. Run this script:
 
 ```bash
-python main.py
+python MAIN.py
 ```
 
 It’ll start your webcam and guess the digits you draw in the frame. Just press `ESC` to quit.
@@ -63,6 +63,8 @@ Feel free to use and modify this code as you like. Just give credit if you use i
 If you have any questions, you can reach me at:
 
 - Email: bismuthlover1404@gmail.com
+- Instagram: @notyuritomboy
+- X: @gabrielcantsimp
 
 
 Enjoy! 🚀
