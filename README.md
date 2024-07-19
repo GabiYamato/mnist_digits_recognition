@@ -63,8 +63,8 @@ Feel free to use and modify this code as you like. Just give credit if you use i
 If you have any questions, you can reach me at:
 
 - Email: bismuthlover1404@gmail.com
-- Instagram: @notyuritomboy
-- X: @gabrielcantsimp
+- Instagram: [@notyuritomboy](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi-sMnA6LKHAxXpyzgGHbgYEk8QFnoECBEQAQ&url=https%3A%2F%2Fwww.instagram.com%2Fnotyuritomboy%2F&usg=AOvVaw0aRanhocsBdP6WrToIgsnm&opi=89978449)
+- X: [@gabrielcantsimp](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi-sMnA6LKHAxXpyzgGHbgYEk8QFnoECBEQAQ&url=https%3A%2F%2Fwww.instagram.com%2Fnotyuritomboy%2F&usg=AOvVaw0aRanhocsBdP6WrToIgsnm&opi=89978449)
 
 
 Enjoy! 🚀
